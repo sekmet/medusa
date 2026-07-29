@@ -1,5 +1,11 @@
 # @medusajs/types
 
+## 2.19.0
+
+### Patch Changes
+
+- [#16223](https://github.com/medusajs/medusa/pull/16223) [`e2b2a5c5c2c51dfc0973b024d4cbb5c6c2f49158`](https://github.com/medusajs/medusa/commit/e2b2a5c5c2c51dfc0973b024d4cbb5c6c2f49158) Thanks [@srindom](https://github.com/srindom)! - feat(core-flows,medusa,dashboard,js-sdk,types): add inventory item export with per-location levels
+
 ## 2.18.0
 
 ### Minor Changes

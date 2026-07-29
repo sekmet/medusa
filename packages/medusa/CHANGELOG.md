@@ -1,5 +1,66 @@
 # Change Log
 
+## 2.19.0
+
+### Patch Changes
+
+- [#16223](https://github.com/medusajs/medusa/pull/16223) [`e2b2a5c5c2c51dfc0973b024d4cbb5c6c2f49158`](https://github.com/medusajs/medusa/commit/e2b2a5c5c2c51dfc0973b024d4cbb5c6c2f49158) Thanks [@srindom](https://github.com/srindom)! - feat(core-flows,medusa,dashboard,js-sdk,types): add inventory item export with per-location levels
+
+- Updated dependencies [[`a42ee0825b07409cab68cd351516c35b74238150`](https://github.com/medusajs/medusa/commit/a42ee0825b07409cab68cd351516c35b74238150), [`e037c71ff11add91583124a600840ce793421fe7`](https://github.com/medusajs/medusa/commit/e037c71ff11add91583124a600840ce793421fe7), [`01f31bc58b1ff729a7326bdf54c65f92e35b0725`](https://github.com/medusajs/medusa/commit/01f31bc58b1ff729a7326bdf54c65f92e35b0725), [`e2b2a5c5c2c51dfc0973b024d4cbb5c6c2f49158`](https://github.com/medusajs/medusa/commit/e2b2a5c5c2c51dfc0973b024d4cbb5c6c2f49158), [`c6188c23f2efda5dafcb8bea83f71dc02d375f19`](https://github.com/medusajs/medusa/commit/c6188c23f2efda5dafcb8bea83f71dc02d375f19)]:
+  - @medusajs/core-flows@2.19.0
+  - @medusajs/product@2.19.0
+  - @medusajs/file-s3@2.19.0
+  - @medusajs/framework@2.19.0
+  - @medusajs/event-bus-redis@2.19.0
+  - @medusajs/admin-bundler@2.19.0
+  - @medusajs/draft-order@2.19.0
+  - @medusajs/analytics@2.19.0
+  - @medusajs/api-key@2.19.0
+  - @medusajs/auth@2.19.0
+  - @medusajs/cache-inmemory@2.19.0
+  - @medusajs/cache-redis@2.19.0
+  - @medusajs/caching@2.19.0
+  - @medusajs/cart@2.19.0
+  - @medusajs/currency@2.19.0
+  - @medusajs/customer@2.19.0
+  - @medusajs/event-bus-local@2.19.0
+  - @medusajs/file@2.19.0
+  - @medusajs/fulfillment@2.19.0
+  - @medusajs/index@2.19.0
+  - @medusajs/inventory@2.19.0
+  - @medusajs/link-modules@2.19.0
+  - @medusajs/locking@2.19.0
+  - @medusajs/notification@2.19.0
+  - @medusajs/order@2.19.0
+  - @medusajs/payment@2.19.0
+  - @medusajs/pricing@2.19.0
+  - @medusajs/promotion@2.19.0
+  - @medusajs/analytics-local@2.19.0
+  - @medusajs/analytics-posthog@2.19.0
+  - @medusajs/auth-emailpass@2.19.0
+  - @medusajs/auth-github@2.19.0
+  - @medusajs/auth-google@2.19.0
+  - @medusajs/caching-redis@2.19.0
+  - @medusajs/file-local@2.19.0
+  - @medusajs/fulfillment-manual@2.19.0
+  - @medusajs/locking-postgres@2.19.0
+  - @medusajs/locking-redis@2.19.0
+  - @medusajs/notification-local@2.19.0
+  - @medusajs/notification-sendgrid@2.19.0
+  - @medusajs/payment-stripe@2.19.0
+  - @medusajs/rbac@2.19.0
+  - @medusajs/region@2.19.0
+  - @medusajs/sales-channel@2.19.0
+  - @medusajs/settings@2.19.0
+  - @medusajs/stock-location@2.19.0
+  - @medusajs/store@2.19.0
+  - @medusajs/tax@2.19.0
+  - @medusajs/translation@2.19.0
+  - @medusajs/user@2.19.0
+  - @medusajs/workflow-engine-inmemory@2.19.0
+  - @medusajs/workflow-engine-redis@2.19.0
+  - @medusajs/telemetry@2.19.0
+
 ## 2.18.0
 
 ### Patch Changes

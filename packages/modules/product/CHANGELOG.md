@@ -1,5 +1,14 @@
 # @medusajs/product
 
+## 2.19.0
+
+### Patch Changes
+
+- [#16179](https://github.com/medusajs/medusa/pull/16179) [`01f31bc58b1ff729a7326bdf54c65f92e35b0725`](https://github.com/medusajs/medusa/commit/01f31bc58b1ff729a7326bdf54c65f92e35b0725) Thanks [@ihopenre-eng](https://github.com/ihopenre-eng)! - fix(product): allow deleting individual variant metadata fields
+
+- Updated dependencies []:
+  - @medusajs/framework@2.19.0
+
 ## 2.18.0
 
 ### Minor Changes
